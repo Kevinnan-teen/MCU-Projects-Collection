@@ -6,4 +6,4 @@
 
 [更多详细内容](./Queue_System)
 
-![](./resources/排队系统设计_面包板连接_1.png) 
+![proteus仿真实例](./Queue_System/resources/proteus仿真.gif)
