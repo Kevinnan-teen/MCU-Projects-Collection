@@ -9,3 +9,12 @@
 ![proteus仿真实例](./Queue_System/resources/proteus仿真演示.gif)
 
 ![](./Queue_System/resources/硬件演示.gif)
+
+### ToDo
+
+- 51单片机编程常用数据结构、算法实现（队列、链表...，排序）
+- 51单片机核心板（AD 原理图+pcb设计、焊接）
+- 万年历（pcb+3D打印，作息时间控制）
+
+
+
