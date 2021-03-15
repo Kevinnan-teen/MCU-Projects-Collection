@@ -51,7 +51,7 @@
 
 ![proteus仿真实例](./resources/proteus仿真演示.gif)
 
-![硬件演示](../resources/硬件演示.gif)
+![硬件演示](./resources/硬件演示.gif)
 
 ![排队叫号系统面包板连接图_1](./resources/排队叫号系统面包板连接图_1.png) 
 
