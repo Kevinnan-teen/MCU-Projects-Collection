@@ -6,4 +6,6 @@
 
 [更多详细内容](./Queue_System)
 
-![proteus仿真实例](./Queue_System/resources/proteus仿真.gif)
+![proteus仿真实例](./Queue_System/resources/proteus仿真演示.gif)
+
+![](./Queue_System/resources/硬件演示.gif)
